@@ -25,19 +25,7 @@ This project implements a complete end-to-end Machine Learning workflow for loan
 ## 1. Data Collection
 
 The dataset contains loan application records with applicant and financial information, including:
-
-* Number of Dependents
-* Education
-* Self Employed Status
-* Annual Income
-* Loan Amount
-* Loan Term
-* CIBIL Score
-* Residential Asset Value
-* Commercial Asset Value
-* Luxury Asset Value
-* Bank Asset Value
-* Loan Status (Target Variable)
+Number of Dependents, Education, Self Employed Status, Annual Income, Loan Amount, Loan Term, CIBIL Score, Residential Asset Value, Commercial Asset Value, Luxury Asset Value, Bank Asset Value, Loan Status (Target Variable)
 
 ---
 
