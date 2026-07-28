@@ -14,7 +14,7 @@ This project implements a complete end-to-end Machine Learning workflow for loan
 
 **Language:** Python
 
-**Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, XGBoost
+**Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn.
 
 **Environment:** Jupyter Notebook
 
