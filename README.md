@@ -100,10 +100,12 @@ Key insights obtained from the analysis include:
 
 ```text
 Loan-Approval-Prediction/
-│── Loan_Approval_prediction.ipynb
-│── loan_approval_dataset.csv
 │── README.md
 │── requirements.txt
+├── data/
+│   └── loan_approval_dataset.csv
+├── notebooks/
+│   └── Loan_Approval_prediction.ipynb
 ```
 
 ---
