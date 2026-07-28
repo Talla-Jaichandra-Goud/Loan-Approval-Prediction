@@ -1,4 +1,4 @@
-# Loan Approval Prediction using Classification Algorithms
+# Loan Approval Prediction 
 
 A machine learning project focused on predicting whether a loan application will be **Approved** or **Rejected** by leveraging classification algorithms trained on applicant financial details, credit history, and asset information.
 
